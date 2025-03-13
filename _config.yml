@@ -1,10 +1,7 @@
 title: "Jai Bindlish Portfolio"  # Change to your desired site title
 description: "A showcase of my projects and achievements"
 author: "Jai Bindlish"
-
-remote_theme: pages-themes/dinky@v0.2.0
-plugins:
-  - jekyll-remote-theme # Enables the selected theme
+theme: "minima"
 
 # Navigation Links (Optional)
 nav:
