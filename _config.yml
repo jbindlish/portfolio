@@ -1,3 +1,31 @@
+title: "Jai Bindlish Portfolio"  # Change to your desired site title
+description: "A showcase of my projects and achievements"
+author: "Jai Bindlish"
+
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # Enables the selected theme
+
+# Optional settings for better SEO and usability
+baseurl: ""  # Leave this blank unless using a subpath
+url: "https://yourusername.github.io"  # Replace with your actual GitHub Pages URL
+
+# Navigation Links (Optional)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
+
+# Markdown Settings (Optional, improves formatting)
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude unnecessary files from Jekyll processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
