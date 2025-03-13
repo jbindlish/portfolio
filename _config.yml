@@ -18,14 +18,3 @@ nav:
     url: "/about"
   - title: "Projects"
     url: "/projects"
-
-# Markdown Settings (Optional, improves formatting)
-markdown: kramdown
-kramdown:
-  input: GFM
-
-# Exclude unnecessary files from Jekyll processing
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
