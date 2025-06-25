@@ -3,6 +3,9 @@ description: "A showcase of my projects and achievements"
 author: "Jai Bindlish"
 theme: "minima"
 
+include:
+  - images
+
 # Navigation Links (Optional)
 nav:
   - title: "Home"
