@@ -7,4 +7,4 @@ Career Day was amazing! Generous presenters gave valuable insights to students a
 Organizing this event was certainly a rewarding experience. I cold called parents and previous presenters, established venue availability and timing, and organized chaperoning and group-assignments. Overall, I’ve learned a lot of event planning and networking. 
 
 ![Full Presentation Hall](https://jbindlish.github.io/portfolio/images/CareerDay1.jpeg)
-![Specific Conversation](https://jbindlish.github.io/portfolio/images/CareerDay2.jpeg)
+![Specific Conversation](https://jbindlish.github.io/portfolio/images/IMG_4392.jpeg)
